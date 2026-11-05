@@ -30,7 +30,7 @@ psutil
 pybase64
 pycountry
 pymongo
-wzgram
+pyrofork==2.3.60
 python-dotenv
 python-magic
 qbittorrent-api
